@@ -37,7 +37,7 @@ The dataset contains information about salaries in data-related roles across mul
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_preview.png)
+Dashboard_preview.png
 
 ## Author
 
